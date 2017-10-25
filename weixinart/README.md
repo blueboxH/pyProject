@@ -4,4 +4,4 @@
 
 `spider:` 这是我写的一个早期版本, 只是完成了对网页的定向爬取, 输入验证码, 更换代理, 数据存到mongodb
 
-`spiderPro:` pro版封装了自己的工具模块myTool, 另外使用多线程, 用queue在线程间传递数据
+`spiderPro:` pro版封装了自己的工具模块myTool, 另外使用多线程, 用queue在线程间传递数据, 图片为爬取一页运行结果
